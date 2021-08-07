@@ -1,4 +1,8 @@
 body {
-  background: black;
-  color: red;
+  background: white;
+  color: blue;
+}
+
+#frame{
+  align-items: center;
 }
